@@ -1,0 +1,45 @@
+body{
+  position:  relative;
+  
+}
+
+
+         body {
+            padding: 0%;
+            margin: 0%;
+        }
+ 
+        .geeks {
+            padding: 200px;
+            text-align: center;
+        }
+ 
+        section {
+            width: 100%;
+            min-height: 300px;
+        }
+ 
+      
+      
+
+
+          .error-msg{
+            font-size:12px;
+            width:100%;
+            color:red;
+            border: red;
+          }
+
+          .container
+          {
+            display:flex;
+          }
+          li{
+            text-decoration: none;
+          }
+
+          
+
+
+         
+           
